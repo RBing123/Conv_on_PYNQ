@@ -19,7 +19,7 @@ Address map:
 | Component |	Address |
 |-----------|---------|
 | Zynq DDR Memory |	0x30000000 |
-| BRAM0 (input) |	0x40000000 |
-| BRAM1 (output) |	0x42000000 |
+| BRAM0 (input) |	0xC0000000 |
+| BRAM1 (output) |	0xC2000000 |
 | AXI CDMA | from IP dictionary |
 | AXI GPIO |from IP dictionary | 
