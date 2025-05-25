@@ -4,8 +4,8 @@ This project demonstrates how to load a custom convolution hardware IP onto a PY
 ## System setup
 * **Platform**: pynq-z2
 * **Files**:
-  * 'input.hex' - Input data in hexdecimal format
-  * 'golden.hex' - Expected output data for verfication
+  * `input.hex` - Input data in hexdecimal format
+  * `golden.hex` - Expected output data for verfication
 
 ## Hardware Configuration
 The design includes:
